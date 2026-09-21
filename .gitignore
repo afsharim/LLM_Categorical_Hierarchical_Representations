@@ -1,3 +1,10 @@
 __pycache__/
 binary/
 .env
+
+
+# Generated Python caches.
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
